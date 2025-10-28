@@ -1,4 +1,4 @@
-# Tomorrow's Tech SKills: What's Hot and What's Next | Stack Overflow Developer Survey 📊
+# Tomorrow's Tech Skills: What's Hot and What's Next | Stack Overflow Developer Survey 📊
 
 A comprehensive capstone project analyzing current and future technology trends using the Stack Overflow Developer Survey dataset. This project demonstrates end-to-end data analysis skills from collection to presentation, providing strategic insights for technology consulting and business decision-making.
 
