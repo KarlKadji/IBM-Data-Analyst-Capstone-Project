@@ -1,8 +1,8 @@
-# Tomorrow's Tech Skills: What's Hot and What's Next | Stack Overflow Developer Survey 📊
+# Tomorrow's Tech Skills: What's Hot and What's Next | Stack Overflow Developer Survey
 
 A comprehensive capstone project analyzing current and future technology trends using the Stack Overflow Developer Survey dataset. This project demonstrates end-to-end data analysis skills from collection to presentation, providing strategic insights for technology consulting and business decision-making.
 
-## 🎯 Project Overview
+## Project Overview
 
 As an Associate Data Analyst at a technology consulting organization, this project focuses on extracting valuable insights from the latest Stack Overflow Developer Survey to identify emerging technology trends and guide strategic business decisions.
 
@@ -12,14 +12,14 @@ As an Associate Data Analyst at a technology consulting organization, this proje
 - What emerging patterns and shifts are occurring in the technology landscape?
 - How can these insights inform strategic planning and resource allocation?
 
-## 📊 Project Deliverables
+## Project Deliverables
 
 1. **Data Analysis** - SQL and Python-based analysis using Pandas and NumPy
 2. **Interactive Dashboards** - Three comprehensive dashboards using IBM Cognos Analytics
 3. **Final Presentation** - Professional PowerPoint presentation with data storytelling
 4. **Technical Documentation** - Complete project workflow and methodology
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 ### Data Processing & Analysis
 - **SQL** - Data extraction from relational databases
@@ -33,7 +33,7 @@ As an Associate Data Analyst at a technology consulting organization, this proje
 - **Python Visualization Libraries** - Matplotlib, Seaborn for EDA
 - **Microsoft PowerPoint** - Final presentation and storytelling
 
-## 🔄 Project Workflow
+## Project Workflow
 
 ### Phase 1: Data Collection & Preparation
 - **API Access & Web Scraping** - Gather data from multiple sources using APIs and BeautifulSoup
@@ -74,7 +74,7 @@ Three specialized dashboards in Google Looker Studio:
 - **Data Storytelling** - Effective communication of insights
 - **Strategic Recommendations** - Actionable business insights
 
-## 📈 Key Analysis Areas
+## Key Analysis Areas
 
 ### Technology Stack Analysis
 - Programming language popularity and trends
@@ -94,7 +94,7 @@ Three specialized dashboards in Google Looker Studio:
 - Industry-specific tool adoption
 - Career progression patterns
 
-## 🎓 Learning Objectives
+## Learning Objectives
 
 ### Technical Skills
 - End-to-end data analysis workflow
